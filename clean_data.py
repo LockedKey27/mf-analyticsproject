@@ -1,9 +1,3 @@
-"""
-Day 2 - Data Cleaning
-Cleans nav_history, investor_transactions, and scheme_performance per spec,
-applies light standard cleaning to the remaining datasets, and writes all
-10 cleaned CSVs to data/processed/.
-"""
 
 import pandas as pd
 import numpy as np
